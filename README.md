@@ -1,0 +1,1 @@
+# Coding_Ninja_Java_introduction_solution
